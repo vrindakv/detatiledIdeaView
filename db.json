@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Ritika Singh",
-      "title": "Idea Title 5",
+      "title": "Idea Title 1",
       "date": "04/03/2020",
       "ratings":"3",
       "reviewers":["Asnad A P","Divin Divakar","Madhu Rentala"],
@@ -140,7 +140,7 @@
     {
       "id": "5",
       "name": "Jain James",
-      "title": "Idea Title 1",
+      "title": "Idea Title 5",
       "date": "08/03/2020",
       "ratings":"1",
        "reviewers":["Asnad","Divin","Madhu"],
