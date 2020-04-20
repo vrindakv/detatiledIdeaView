@@ -48,6 +48,13 @@
       "date": "05/03/2020",
       "ratings":"4",
        "reviewers":["Asnad","Divin","Madhu"],
+       "isSubcategory":true,
+      "subcategory":[
+        {
+        "title":"Subcategory title",  
+        "description":"Description is the pattern of narrative development that aims to make vivid a place, object, character, or group"
+        }
+      ],
       "description": "Personification occurs when a thing or abstraction is represented as a person, in literature or art, as an anthropomorphic metaphor. The type of personification discussed here excludes passing literary effects such as Shadows hold their breath,[1] and covers cases where a personification appears as a character in literature, or a human figure in art. The technical term for this, since ancient Greece",
       "clarification": [
         {
@@ -143,7 +150,14 @@
       "title": "Idea Title 5",
       "date": "08/03/2020",
       "ratings":"1",
-       "reviewers":["Asnad","Divin","Madhu"],
+       "reviewers":["Asnad A P","Divin Divakar","Madhu Rentala"],
+       "isSubcategory":true,
+      "subcategory":[
+        {
+        "title":"Subcategory title",  
+        "description":"Description is the pattern of narrative development that aims to make vivid a place, object, character, or group"
+        }
+      ],
       "description": " including only woody plants with secondary growth, plants that are usable as lumber or plants above a specified height. In wider definitions, the taller palms, tree ferns, bananas, and bamboos are also trees",
       "clarification": [
         {
