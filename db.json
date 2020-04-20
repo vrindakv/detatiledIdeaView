@@ -7,10 +7,11 @@
       "date": "04/03/2020",
       "ratings":"3",
       "reviewers":["Asnad A P","Divin Divakar","Madhu Rentala"],
+      "eventTitle":"Event Title 1",
       "isSubcategory":true,
       "subcategory":[
         {
-        "title":"Subcategory title",  
+        "title":"Subcategory Title 1",  
         "description":"Description is the pattern of narrative development that aims to make vivid a place, object, character, or group"
         }
       ],
@@ -49,9 +50,10 @@
       "ratings":"4",
        "reviewers":["Asnad","Divin","Madhu"],
        "isSubcategory":true,
+      "eventTitle":"Event Title 2",
       "subcategory":[
         {
-        "title":"Subcategory title",  
+        "title":"Subcategory title 2",  
         "description":"Description is the pattern of narrative development that aims to make vivid a place, object, character, or group"
         }
       ],
@@ -97,6 +99,8 @@
       "title": "Idea Title 3",
       "date": "06/03/2020",
       "ratings":"2",
+      "eventTitle":"Event Title 3", 
+      "isSubcategory":false,
        "reviewers":["Asnad","Divin","Madhu"],
       "description": "ersonification occurs when a thing or abstraction is represented as a person, in literature or art, as an anthropomorphic metaphor.",
       "clarification": [
@@ -129,6 +133,8 @@
       "date": "07/03/2020",
       "ratings":"5",
        "reviewers":["Asnad","Divin","Madhu"],
+      "eventTitle":"Event Title 4",
+       "isSubcategory":false,
       "description": " including only woody plants with secondary growth, plants that are usable as lumber or plants above a specified height. In wider definitions, the taller palms, tree ferns, bananas, and bamboos are also trees",
       "clarification": [
         {
@@ -151,6 +157,7 @@
       "date": "08/03/2020",
       "ratings":"1",
        "reviewers":["Asnad A P","Divin Divakar","Madhu Rentala"],
+      "eventTitle":"Event Title 5",
        "isSubcategory":true,
       "subcategory":[
         {
